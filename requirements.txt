@@ -5,8 +5,8 @@ matplotlib
 scikit-learn
 catboost
 xgboost
-dill
-pickle
+# dill
+# pickle
 streamlit
 
 #-e .
