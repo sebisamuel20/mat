@@ -8,5 +8,6 @@ xgboost
 # dill
 # pickle
 streamlit
+imbalanced-learn
 
 #-e .
