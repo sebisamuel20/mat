@@ -9,5 +9,4 @@ xgboost
 # pickle
 streamlit
 imbalanced-learn
-
-#-e .
+-e .
